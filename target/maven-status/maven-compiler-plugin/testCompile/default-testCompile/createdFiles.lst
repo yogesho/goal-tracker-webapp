@@ -1,0 +1,5 @@
+com\goaltracker\service\GoalServiceTest.class
+com\goaltracker\entity\GoalEntityTest.class
+com\goaltracker\controller\GoalControllerTest.class
+com\goaltracker\controller\GoalApiControllerTest.class
+com\goaltracker\repository\GoalDayRepositoryTest.class

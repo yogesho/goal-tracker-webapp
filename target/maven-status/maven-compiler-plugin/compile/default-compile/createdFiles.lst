@@ -1,0 +1,10 @@
+com\goaltracker\controller\GoalController.class
+com\goaltracker\controller\GoalApiController.class
+com\goaltracker\controller\HomeController.class
+com\goaltracker\GoalTrackerApplication.class
+com\goaltracker\service\GoalService.class
+com\goaltracker\dto\GoalDto.class
+com\goaltracker\entity\GoalDay.class
+com\goaltracker\repository\GoalRepository.class
+com\goaltracker\repository\GoalDayRepository.class
+com\goaltracker\entity\Goal.class
