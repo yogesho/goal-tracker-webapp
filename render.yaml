@@ -27,5 +27,3 @@ services:
         fromDatabase:
           name: goal-tracker-db
           property: password
-    buildCommand: docker build -t goal-tracker .
-    startCommand: docker run -p $PORT:8080 goal-tracker
